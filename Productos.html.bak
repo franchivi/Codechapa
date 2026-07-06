@@ -1,0 +1,625 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+    <title>Codechapa S. L</title>
+    <meta http-equiv="expires" content="0">
+    <meta name="author" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="" lang="">
+    <meta name="generator" content="Web2Date BASIC">
+    <link rel="stylesheet" type="text/css" href="./assets/s.css">
+    <script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script> <style type="text/css">
+.Estilo1 {	font-size: 12.0pt;
+	font-weight: bold;
+}
+.Estilo4 {font-size: 12pt;
+	color: #FFFFFF;
+}
+</style> <script language="JavaScript">
+  agent = navigator.userAgent;
+  yes = 0;
+  if(agent.substring(0,7) == "Mozilla")
+    {
+    if( parseInt(agent.substring(8,9)) >= 3)
+	  {
+	  yes = 1;
+	  }
+    }
+
+  if(yes)
+    {
+                      
+                
+        pc1n = new Image();
+        pc1n.src = "./images/pcmpc1.gif";
+        pc1h = new Image();
+        pc1h.src = "./images/pcmphc1.gif";
+                      
+                
+        pc2n = new Image();
+        pc2n.src = "./images/pcmpc2.gif";
+        pc2h = new Image();
+        pc2h.src = "./images/pcmphc2.gif";
+                      
+                
+        pc3n = new Image();
+        pc3n.src = "./images/pcmpc3.gif";
+        pc3h = new Image();
+        pc3h.src = "./images/pcmphc3.gif";
+      		  	                                pt1n = new Image();
+        pt1n.src = "./images/phnvmtt1.gif";
+        pt1h = new Image();
+        pt1h.src = "./images/phnvmtht1.gif";
+                              pt2n = new Image();
+        pt2n.src = "./images/phnvmtt2.gif";
+        pt2h = new Image();
+        pt2h.src = "./images/phnvmtht2.gif";
+                              pt3n = new Image();
+        pt3n.src = "./images/phnvmtt3.gif";
+        pt3h = new Image();
+        pt3h.src = "./images/phnvmtht3.gif";
+                              pt4n = new Image();
+        pt4n.src = "./images/phnvmtt4.gif";
+        pt4h = new Image();
+        pt4h.src = "./images/phnvmtht4.gif";
+                              pt5n = new Image();
+        pt5n.src = "./images/phnvmtt5.gif";
+        pt5h = new Image();
+        pt5h.src = "./images/phnvmtht5.gif";
+                              pt6n = new Image();
+        pt6n.src = "./images/phnvmtt6.gif";
+        pt6h = new Image();
+        pt6h.src = "./images/phnvmtht6.gif";
+              pm0n = new Image();
+    pm0n.src = "./images/phomesm0.gif";
+    pm0h = new Image();
+    pm0h.src = "./images/phomesm0.gif";
+	
+    	  	    	                pm1n = new Image();
+      pm1n.src = "./images/pmtm1.gif";
+      pm1h = new Image();
+      pm1h.src = "./images/pmthm1.gif";
+    	  	    	                pm2n = new Image();
+      pm2n.src = "./images/pmtm2.gif";
+      pm2h = new Image();
+      pm2h.src = "./images/pmthm2.gif";
+    	  	    	                pm3n = new Image();
+      pm3n.src = "./images/pmtm3.gif";
+      pm3h = new Image();
+      pm3h.src = "./images/pmthm3.gif";
+    	  	    	                pm4n = new Image();
+      pm4n.src = "./images/pmtm4.gif";
+      pm4h = new Image();
+      pm4h.src = "./images/pmthm4.gif";
+    	  	    	                pm5n = new Image();
+      pm5n.src = "./images/pmtm5.gif";
+      pm5h = new Image();
+      pm5h.src = "./images/pmthm5.gif";
+    	  	    	                pm6n = new Image();
+      pm6n.src = "./images/pmtm6.gif";
+      pm6h = new Image();
+      pm6h.src = "./images/pmthm6.gif";
+    	doff = new Image();
+	doff.src = "./images/pd.gif"
+	don = new Image();
+	don.src = "./images/psd.gif"
+    }
+  function CI(imgNum,imgName) 
+	{
+	if(yes)
+	  {
+	  document.images[imgNum].src = eval(imgName + ".src")
+	  }
+	}
+</script></head>
+  <body onload="FP_preloadImgs(/*url*/'button2.jpg', /*url*/'button3.jpg')" alink="#ffffff"
+    vlink="#ffffff" topmargin="0" text="#ffffff" marginwidth="0" marginheight="0"
+    link="#ffffff" leftmargin="0" rightmargin="0" bottommargin="0" bgcolor="#151515"
+    background="./images/pbg.gif">
+    <table align="center" width="770" cellspacing="0" cellpadding="0" border="0">
+      <tbody>
+        <tr>
+          <td width="3"><img src="./images/pcp.gif" alt="" height="10" width="3"
+              border="0"></td>
+          <td width="160"><img src="./images/pcp.gif" alt="" height="10" width="160"
+              border="0"></td>
+          <td width="3"><img src="./images/pcp.gif" alt="" height="10" width="3"
+              border="0"></td>
+          <td width="601"><img src="./images/pcp.gif" alt="" height="10" width="601"
+              border="0"></td>
+          <td width="3"><img src="./images/pcp.gif" alt="" height="10" width="3"
+              border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="5"><img src="./images/pltp.gif" alt="" height="3" width="770"
+              border="0"></td>
+        </tr>
+        <tr>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+          <td colspan="3" bgcolor="#1F1F1F"> <img src="./images/plms.gif" alt=""
+              height="16" width="3" border="0"><a onmouseover="CI('pm1','pm1h');return true"
+              onmouseout="CI('pm1','pm1n');return true" href="index2.html"><img
+                src="./images/pmtm1.gif" name="pm1" alt="" height="16" width="42"
+                border="0"></a><img src="./images/plms.gif" alt="" height="16" width="3"
+              border="0"><a onmouseover="CI('pm2','pm2h');return true" onmouseout="CI('pm2','pm2n');return true"
+              href="quienes%20somos.html"><img src="./images/pmtm2.gif" name="pm2"
+                alt="" height="16" width="102" border="0"></a><img src="./images/plms.gif"
+              alt="" height="16" width="3" border="0"><a onmouseover="CI('pm3','pm3h');return true"
+              onmouseout="CI('pm3','pm3n');return true" href="Productos.html"><img
+                src="./images/pmtm3.gif" name="pm3" alt="" height="16" width="70"
+                border="0"></a><img src="./images/plms.gif" alt="" height="16" width="3"
+              border="0"><a onmouseover="CI('pm4','pm4h');return true" onmouseout="CI('pm4','pm4n');return true"
+              href="Contacto.html"><img src="./images/pmtm4.gif" name="pm4" alt=""
+                height="16" width="64" border="0"></a><img src="./images/plms.gif"
+              alt="" height="16" width="3" border="0"><a onmouseover="CI('pm5','pm5h');return true"
+              onmouseout="CI('pm5','pm5n');return true" href="Instalaciones.html"><img
+                src="./images/pmtm5.gif" name="pm5" alt="" height="16" width="87"
+                border="0"></a><img src="./images/plms.gif" alt="" height="16" width="3"
+              border="0"><a onmouseover="CI('pm6','pm6h');return true" onmouseout="CI('pm6','pm6n');return true"
+              href="Donde%20estamos.html"><img src="./images/pmtm6.gif" name="pm6"
+                alt="" height="16" width="102" border="0"></a><img src="./images/plms.gif"
+              alt="" height="16" width="3" border="0"></td>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="5"><img src="./images/plma.gif" alt="" height="3" width="770"
+              border="0"></td>
+        </tr>
+        <tr>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+          <td colspan="3"> <img src="images/plogo%20copia.gif" alt="" height="60"
+              width="764" border="0"></td>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="5"><img src="./images/plmb.gif" alt="" height="3" width="770"
+              border="0"></td>
+        </tr>
+        <tr>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+          <td width="160" valign="top" bgcolor="#1F1F1F">
+            <table width="160" cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"> <a onmouseover="CI('pt1','pt1h');return true"
+                      onmouseout="CI('pt1','pt1n');return true" href="index2.html"><img
+                        src="./images/phnvmtt1.gif" name="pt1" alt="" height="17"
+                        width="160" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="1"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="10"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"> <a onmouseover="CI('pt2','pt2h');return true"
+                      onmouseout="CI('pt2','pt2n');return true" href="quienes%20somos.html"><img
+                        src="./images/phnvmtt2.gif" name="pt2" alt="" height="17"
+                        width="160" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="1"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="10"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"> <a onmouseover="CI('pt3','pt3h');return true"
+                      onmouseout="CI('pt3','pt3n');return true" href="Productos.html"><img
+                        src="./images/phnvmtt3.gif" name="pt3" alt="" height="17"
+                        width="160" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="1"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="10"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"> <a onmouseover="CI('pt4','pt4h');return true"
+                      onmouseout="CI('pt4','pt4n');return true" href="Contacto.html"><img
+                        src="./images/phnvmtt4.gif" name="pt4" alt="" height="17"
+                        width="160" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="1"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="10"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"> <a onmouseover="CI('pt5','pt5h');return true"
+                      onmouseout="CI('pt5','pt5n');return true" href="Instalaciones.html"><img
+                        src="./images/phnvmtt5.gif" name="pt5" alt="" height="17"
+                        width="160" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="1"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="10"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"> <a onmouseover="CI('pt6','pt6h');return true"
+                      onmouseout="CI('pt6','pt6n');return true" href="Donde%20estamos.html"><img
+                        src="./images/phnvmtt6.gif" name="pt6" alt="" height="17"
+                        width="160" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pl160.gif" alt="" height="1"
+                      width="160" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="1"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="./images/pcp.gif" alt="" height="10"
+                      width="1" border="0"></td>
+                </tr>
+                <tr>
+                  <td width="16"><img src="./images/pcp.gif" alt="" height="50"
+                      width="16" border="0"></td>
+                  <td width="144"><img src="./images/pcp.gif" alt="" height="50"
+                      width="144" border="0"></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+          <td width="601" valign="top" bgcolor="#151515">
+            <table cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="10"
+                      border="0"></td>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="581"
+                      border="0"></td>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="10"
+                      border="0"></td>
+                </tr>
+                <tr>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="10"
+                      border="0"></td>
+                  <td valign="top">
+                    <table height="632" width="581" cellspacing="0" cellpadding="0"
+                      border="0">
+                      <!-- MSTableType="layout" -->
+                      <tbody>
+                        <tr>
+                          <td height="1"><br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="16" bgcolor="#1F1F1F">
+                            <table cellspacing="0" cellpadding="0" border="0">
+                              <tbody>
+                                <tr>
+                                  <td><img src="./images/pbx.gif" alt="" height="16"
+                                      width="16" border="0"></td>
+                                  <td><span class="heading">Codechapa S. L</span></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="19"><br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="56"> <a name="00000092ff0cf7501"></a>
+                            <h2 align="left"><span style="mso-fareast-font-family:
+      &quot;Times New Roman&quot;">Productos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+                            <p align="center">&nbsp;</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="371" valign="top"><span class="normal">
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l2 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                    style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>
+                                <!--[endif]--> <span class="Estilo1">Fabricante
+                                  de listelos en acero inoxidable</span></p>
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l2 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                    style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>
+                                <!--[endif]--> <b><span style="font-size:12.0pt;
+      line-height:150%">Elaboramos cualquier tipo de pieza en chapa (acero,
+                                    galvanizado, acero
+                                    inoxidable,&nbsp;&nbsp;&nbsp;&nbsp; aluminio
+                                    ... )</span></b></p>
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l2 level1 lfo1;tab-stops:list 36.0pt"><span class="normal"><span
+                                    style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                      style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        </span></span></span> <b><span style="font-size:12.0pt;      line-height:150%">Fabricación
+                                      de chapas perforadas, medidas y diseños
+                                      estándar y especiales.<br>
+                                    </span></b></span></p>
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l3 level1 lfo2;tab-stops:list 36.0pt">
+                                <!--[if !supportLists]--> <span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                    style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                      </span></span></span> <!--[endif]--> <b><span
+                                    style="font-size:12.0pt;
+      line-height:150%">Fabricación de peldaños y mesetas para escaleras
+                                    metálicas, rectas o de caracol,
+                                    medidas&nbsp; estándar y especiales.&nbsp; </span></b></p>
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l1 level1 lfo3;tab-stops:list 36.0pt">
+                                <!--[if !supportLists]--> <span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                    style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                      </span></span></span> <!--[endif]--> <b><span
+                                    style="font-size:12.0pt;
+      line-height:150%">Especialistas en piezas para climatización industrial y
+                                    doméstica ( bastidores, bafles, bandejas ...
+                                    )</span></b></p>
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l0 level1 lfo4;tab-stops:list 36.0pt">
+                                <!--[if !supportLists]--> <span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                    style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                      </span></span></span> <!--[endif]--> <b><span
+                                    style="font-size:12.0pt;
+      line-height:150%">Productos destinados al sector de la construcción (
+                                    canalones, bajantes, remates, perfiles ... )
+                                  </span></b></p>
+                              <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l0 level1 lfo4;tab-stops:list 36.0pt">
+                                <!--[if !supportLists]--> <span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;line-height:150%;
+      font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:      Symbol"><span
+                                    style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><b><span
+                                    style="font-size:12.0pt">Descárguese
+                                    nuestros catálogos en PDF: </span></b></p>
+                              <p style="text-align:center; color: #FFFF00;" align="center"><b><span
+                                    style="font-size:12.0pt"><a href="archivos/Listelos.pdf"
+                                      target="_blank"><span style="">catálogo de
+                                        listelos inoxidable pdf</span></a></span></b></p>
+                              <p style="text-align:center; color: #FFFF00;" align="center"><b><span
+                                    style="font-size:12.0pt"><a href="archivos/Listelos.pdf"
+                                      target="_blank"><span style=""></span></a><a
+                                      href="archivos/CATALOGO_CHAPAS_PERFORADAS.pdf"
+                                      target="_blank">chapas perforadas pdf</a><br>
+                                  </span></b></p>
+                              <p style="text-align:center; color: #FFFF00;" align="center"><b><span
+                                    style="font-size:12.0pt"><a href="archivos/Catalogo.pdf"
+                                      target="_blank">catálogo general pdf</a></span></b></p>
+                              <p style="text-align:center" color:="" #ffff00;'=""
+                                align="center"><span style="color: #FFFFFF"><b></b><b><a
+                                      href="catonline/catalogo.html" target="_blank"><span
+                                        style="font-size:12.0pt">edición online
+                                        general </span></a></b></span></p>
+                              <p style="text-align:center" color:="" #ffff00;'=""
+                                align="center"><strong><span class="Estilo4"><a
+                                      href="catonline2/catalogo.htm" target="_blank">edición
+                                      online listelos inoxidable </a></span></strong></p>
+                              <p align="center"><b><br>
+                                </b></p>
+                            </span></td>
+                        </tr>
+                        <tr>
+                          <td align="center" height="56">
+                            <p><a name="00000093040d9b721"></a><a href="archivos/Listelos%202%20G.jpg"
+                                target="_blank"><img src="archivos/Listelos%202.jpg"
+                                  alt="" height="208" width="448" border="1"></a>
+                            </p>
+                            <blockquote>
+                              <blockquote>
+                                <h2><strong>Listelos acero inoxidable
+                                    decorativos</strong></h2>
+                              </blockquote>
+                            </blockquote>
+                            <p style="margin-left:36.0pt;text-indent:-18.0pt;line-height:150%;
+      mso-list:l0 level1 lfo4;tab-stops:list 36.0pt"><a href="archivos/Listelos%201%20G.jpg"
+                                target="_blank"> <img src="archivos/Listelos%201.jpg"
+                                  alt="" height="160" width="448" border="1"></a></p>
+                            <p><span style="text-align:center;line-height:150%"><span
+                                  style="mso-no-proof:yes"><img src="archivos/escalones/GRUPO2.jpg"
+                                    alt="" id="_x0000_i1063" height="152" width="199"
+                                    border="0"></span><span style="mso-no-proof:yes"><img
+                                    src="archivos/escalones/GRUPO3.jpg" alt="" id="_x0000_i1062"
+                                    height="152" width="204" border="0"></span></span></p>
+                            <p>&nbsp;</p>
+                            <blockquote>
+                              <blockquote>
+                                <p><span style="line-height:150%"><img src="archivos/embloquevidriopaves1w.jpg"
+                                      alt="" height="314" width="164"><img src="archivos/embloquevidriopaves2w.jpg"
+                                      alt="" height="314" width="190"></span></p>
+                              </blockquote>
+                            </blockquote>
+                            <h2><span style="line-height:150%">Embellecedor
+                                inoxidable bloque vidrio pavés</span></h2>
+                            <p style="line-height:150%"> <span style="mso-no-proof:yes"><img
+                                  src="images/CERCADO-2.jpg" alt="a" id="_x0000_i1061"
+                                  title="a" style="width: 407px; height: 306px;"
+                                  align="absmiddle" border="0"></span></p>
+                            <h2><span style="line-height:150%">Chapas para
+                                cercados especiales</span></h2>
+                            <p style="text-align:center" align="center">&nbsp;</p>
+                            <p style="text-align:center" align="center"><span style="mso-no-proof:yes"><img
+                                  src="images/CERCADO-3.jpg" alt="a" id="_x0000_i1059"
+                                  title="a" style="width: 442px; height: 261px;"
+                                  border="0"></span></p>
+                            <p style="text-align:center" align="center"><span style="mso-no-proof:yes"><img
+                                  src="archivos/escalones/MESETA%20FONDO.jpg" alt=""
+                                  id="_x0000_i1045" height="336" width="448" border="0"></span></p>
+                            <p style="text-align:center" align="center"><span style="mso-no-proof:yes"><img
+                                  src="archivos/100_0422c.jpg" alt="" id="_x0000_i1044"
+                                  height="346" width="472" border="0"></span></p>
+                            <p style="text-align:center" align="center"><span style="mso-fareast-font-family:
+      &quot;Times New Roman&quot;;mso-no-proof:yes"><img src="archivos/100_0416c.jpg"
+                                  alt="" id="_x0000_i1043" height="336" width="448"
+                                  border="0"></span></p>
+                            <p style="text-align:center" align="center"><span style="mso-no-proof:yes"><img
+                                  src="archivos/100_0425c.jpg" alt="" id="_x0000_i1042"
+                                  height="336" width="447" border="0"></span></p>
+                            <p style="text-align:center" align="center"><span style="mso-no-proof:yes"><img
+                                  src="archivos/100_0426c.jpg" alt="" id="_x0000_i1041"
+                                  height="336" width="448" border="0"></span></p>
+                            <p style="text-align:center" align="center">&nbsp;</p>
+                            <p><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+      mso-no-proof:yes"><img src="archivos/100_0428c.jpg" alt="" id="_x0000_i1040"
+                                  height="336" width="448" border="0"></span></p>
+                            <p>&nbsp;</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="19" valign="top">
+                            <p align="center"></p>
+                            <br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="56"> <a name="000000930e0f4f403"></a>
+                            <h2>&nbsp;</h2>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="38" width="581" valign="top">
+                            <p><br>
+                              <br>
+                            </p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="10"
+                      border="0"></td>
+                </tr>
+                <tr>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="10"
+                      border="0"></td>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="581"
+                      border="0"></td>
+                  <td><img src="./images/pcp.gif" alt="" height="10" width="10"
+                      border="0"></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="5"><img src="./images/plmc.gif" alt="" height="3" width="770"
+              border="0"></td>
+        </tr>
+        <tr>
+          <td width="3" bgcolor="#1F1F1F" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+          <td colspan="3" align="right" bgcolor="#1F1F1F"><img src="./images/plms.gif"
+              alt="" height="16" width="3" border="0"><a onmouseover="CI('pc1','pc1h');return true"
+              onmouseout="CI('pc1','pc1n');return true" href="contacto.html"><img
+                src="./images/pcmpc1.gif" name="pc1" alt="" height="16" width="64"
+                border="0"></a><img src="./images/plms.gif" alt="" height="16" width="3"
+              border="0"><a onmouseover="CI('pc2','pc2h');return true" onmouseout="CI('pc2','pc2n');return true"
+              href="quienes%20somos.html"><img src="./images/pcmpc2.gif" name="pc2"
+                alt="" height="16" width="100" border="0"></a><img src="./images/plms.gif"
+              alt="" height="16" width="3" border="0"></td>
+          <td width="3" background="./images/plvt.gif"><img src="./images/pcp.gif"
+              alt="" height="1" width="3" border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="5"><img src="./images/plbt.gif" alt="" height="3" width="770"
+              border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="5"><img src="./images/pcp.gif" alt="" height="10" width="1"
+              border="0"></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
